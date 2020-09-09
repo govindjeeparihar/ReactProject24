@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactProject24/static/css/main.c6135b56.chunk.css",
+    "main.js": "/ReactProject24/static/js/main.28e97379.chunk.js",
+    "main.js.map": "/ReactProject24/static/js/main.28e97379.chunk.js.map",
+    "runtime-main.js": "/ReactProject24/static/js/runtime-main.a1df0791.js",
+    "runtime-main.js.map": "/ReactProject24/static/js/runtime-main.a1df0791.js.map",
+    "static/js/2.e85683e4.chunk.js": "/ReactProject24/static/js/2.e85683e4.chunk.js",
+    "static/js/2.e85683e4.chunk.js.map": "/ReactProject24/static/js/2.e85683e4.chunk.js.map",
+    "index.html": "/ReactProject24/index.html",
+    "precache-manifest.abb6785acef1b2b7ca24877bccf5adff.js": "/ReactProject24/precache-manifest.abb6785acef1b2b7ca24877bccf5adff.js",
+    "service-worker.js": "/ReactProject24/service-worker.js",
+    "static/css/main.c6135b56.chunk.css.map": "/ReactProject24/static/css/main.c6135b56.chunk.css.map",
+    "static/js/2.e85683e4.chunk.js.LICENSE": "/ReactProject24/static/js/2.e85683e4.chunk.js.LICENSE",
+    "static/media/about.jpg": "/ReactProject24/static/media/about.21e787cf.jpg",
+    "static/media/banner.jpg": "/ReactProject24/static/media/banner.7baa9a8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1df0791.js",
+    "static/js/2.e85683e4.chunk.js",
+    "static/css/main.c6135b56.chunk.css",
+    "static/js/main.28e97379.chunk.js"
+  ]
+}
